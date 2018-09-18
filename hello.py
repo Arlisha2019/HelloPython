@@ -1,6 +1,7 @@
 #snake case = first_number
 #camel case =firstNumber
 
+print("Hello")
 #input function ALWAYS returns a String data type
 #a = 10 # integer
 #b = "hello" # String
